@@ -22,3 +22,9 @@ https://en.m.wikipedia.org/wiki/Flight_instruments
 
 
 https://www.icao.int/Pages/default.aspx
+
+
+
+
+
+https://fa.m.wikipedia.org/wiki/پاور_پاراشوت
