@@ -36,5 +36,4 @@ https://fa.m.wikipedia.org/wiki/%D9%BE%D8%A7%D8%B1%D8%A7%D9%85%D9%88%D8%AA%D9%88
 https://fa.m.wikipedia.org/wiki/%D9%BE%D8%A7%D8%B1%D8%A7%DA%AF%D9%84%D8%A7%DB%8C%D8%AF%D8%B1
 
 
-[!habib[habib]
-(https://wikipedia.org)
+"habib"
